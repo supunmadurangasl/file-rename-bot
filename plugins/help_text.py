@@ -30,7 +30,7 @@ def help_user(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.HELP_USER,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⭕️ Contact DEV ⭕️", url="https://t.me/prgofficial")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌟 GROUP 🌟", url="https://t.me/Hackerrdt")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
@@ -44,6 +44,7 @@ def send_start(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.START_TEXT.format(update.from_user.first_name),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌀 CHANNEL 🌀", url="https://t.me/Network_hacker_bots")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
@@ -57,6 +58,7 @@ def upgrade(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.UPGRADE_TEXT,
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⚡Ehi Podda Group⚡", url="https://t.me/Ehi_podda")]]),
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
