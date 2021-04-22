@@ -26,7 +26,10 @@ python3 -m tobrot
 
 #### For Queries and support, contact [Network Hacker](https://telegram.dog/Hackerrdt)
 
-## Credits, and Thanks to Beloved Developers ;
+## Developers ;
+*[Bhashitha 🇱🇰](https://t.me/ImBhashitha)
+*[supun priyashanka](https://t.me/Supun_priyashanka)
+## Credits, and Thanks ;
 
 * [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
 * [Dan Tès](https://telegram.dog/haskell) 
