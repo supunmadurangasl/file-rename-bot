@@ -28,8 +28,8 @@ python3 -m tobrot
 
 ## Developers ;
 
-*[Bhashitha 🇱🇰](https://t.me/ImBhashitha)
-*[supun priyashanka](https://t.me/Supun_priyashanka)
+[Bhashitha 🇱🇰](https://t.me/ImBhashitha) 
+/ [supun priyashanka](https://t.me/Supun_priyashanka)
 
 ## Credits, and Thanks ;
 
