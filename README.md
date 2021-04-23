@@ -10,11 +10,11 @@ Rename any Telegram Files with Permanent Thumbnail Support
 
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImBhashitha/NET.Rename-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ImBhashitha/NET.Rename-bot.git)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/ImBhashitha/NET.Rename-bot
+git clone https://github.com/ImBhashitha/NET.Rename-bot.git
 cd NET.Rename-bot
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
