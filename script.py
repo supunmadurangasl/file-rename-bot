@@ -13,9 +13,9 @@ class script(object):
     NO_THUMB = "**No thumbnails found!🤒**"
     SAVED_RECVD_DOC_FILE = "**File Downloaded Successfully 😎**"
     CUSTOM_CAPTION_UL_FILE = " "
-    HELP_USER = """It's not that complicated😅
+    HELP_USER = """<b>It's not that complicated😅
     
 1. Send me any Telegram File.
 2. Choose appropriate option.
-   ©Network_hacker_bots 🇱🇰 """
+   ©Network_hacker_bots 🇱🇰</b>"""
 
