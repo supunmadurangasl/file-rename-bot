@@ -3,7 +3,7 @@
 Rename any Telegram Files with Permanent Thumbnail Support
 
 * Added auto detect of files
-
+* Added New option 
 
 ### Installation
 
