@@ -1,4 +1,4 @@
-##★ Rename Bot ★
+## ★ Rename Bot ★
 ---
 Rename any Telegram Files with Permanent Thumbnail Support
 
@@ -29,6 +29,7 @@ python3 -m tobrot
 
 [Bhashitha 🇱🇰](https://t.me/ImBhashitha) 
 & [supun priyashanka](https://t.me/Supun_priyashanka)
+* [Our Team](https://t.me/Network_hacker_bots)
 
 ## Credits, and Thanks ;
 
