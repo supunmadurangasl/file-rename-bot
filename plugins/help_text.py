@@ -30,7 +30,7 @@ def help_user(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.HELP_USER,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌟 GROUP 🌟", url="https://t.me/Hackerrdt")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌟 GROUP 🌟", url="https://t.me/Hackerrdt")],
                                                 [InlineKeyboardButton(text="🔥 SOURCE CODE 🔥", url="https://github.com/ImBhashitha/NET.Rename-bot")]]),
         parse_mode="html",
         disable_web_page_preview=True,
@@ -45,7 +45,7 @@ def send_start(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.START_TEXT.format(update.from_user.first_name),
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌀 CHANNEL 🌀", url="https://t.me/Network_hacker_bots")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌀 CHANNEL 🌀", url="https://t.me/Network_hacker_bots")],
                                                 [InlineKeyboardButton(text="🔥 SOURCE CODE 🔥", url="https://github.com/ImBhashitha/NET.Rename-bot")]]),
         parse_mode="html",
         disable_web_page_preview=True,
