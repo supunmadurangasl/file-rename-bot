@@ -23,7 +23,7 @@ python3 -m tobrot
 ```
 
 
-#### For Queries and support, contact [Network Hacker](https://telegram.dog/Hackerrdt)
+#### For Queries and support, contact [NET.HACKER BOTS](https://telegram.dog/NET_HACKER_BOTs_chat)
 
 ## Developers ;
 
