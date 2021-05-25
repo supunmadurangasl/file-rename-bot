@@ -58,7 +58,7 @@ async def rename_doc(bot, message):
 
     
     if media.empty:
-        await message.reply_text('Why did you delete that 😕', True)
+        await message.reply_text('Why did you delete that 😐', True)
         return
         
     filetype = media.document or media.video or media.audio or media.voice or media.video_note
