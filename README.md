@@ -23,13 +23,13 @@ python3 -m tobrot
 ```
 
 
-#### For Queries and support, contact [NET.HACKER BOTS](https://telegram.dog/NET_HACKER_BOTs_chat)
+#### For Queries and support, contact [slbotzone](https://telegram.dog/slbotzone)
 
 ## Developers ;
 
-[Bhashitha 🇱🇰](https://t.me/ImBhashitha) 
+[supunma 🇱🇰](https://t.me/supunma) 
 & [supun priyashanka](https://t.me/Supun_priyashanka)
-* [Our Team](https://t.me/Network_hacker_bots)
+* [Our Team](https://t.me/slbotzone)
 
 ## Credits, and Thanks ;
 
