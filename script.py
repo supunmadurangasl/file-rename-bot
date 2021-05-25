@@ -4,10 +4,10 @@ class script(object):
 <b>Send me /help any Telegram file and choose appropriate option! </b>"""
 
     RENAME_403_ERR = "**What Are You Doing? You are Banned 😂**"
-    UPGRADE_TEXT = "🌟 CONTACT @Network_hacker_bots"
-    DOWNLOAD_START = "**🌟 Give Me Some Time... 🌟**"
-    UPLOAD_START = "**⚡Starting to upload...⚡**"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Network_hacker_bots 🇱🇰 **"
+    UPGRADE_TEXT =  "👨‍💻CONTACT @slbotzone"
+    DOWNLOAD_START = "** 👨‍💻Give Me Some Time...👨‍💻 **"
+    UPLOAD_START = "**📤starting to upload...📤**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @slbotzone 🇱🇰 **"
     SAVED_THUMB = "**Thumbnail Saved ✅ This Is Permanent**"
     DEL_THUMB = "**Thumbnail cleared succesfully!**"
     NO_THUMB = "**No thumbnails found!🤒**"
@@ -17,5 +17,5 @@ class script(object):
     
 1. Send me any Telegram File.
 2. Choose appropriate option.
-   ©Network_hacker_bots 🇱🇰</b>"""
+   ©supunma 🇱🇰</b>"""
 
