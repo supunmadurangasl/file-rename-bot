@@ -30,8 +30,8 @@ def help_user(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.HELP_USER,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌟 GROUP 🌟", url="https://t.me/Hackerrdt")],
-                                                [InlineKeyboardButton(text="🔥 SOURCE CODE 🔥", url="https://github.com/ImBhashitha/NET.Rename-bot")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🕺 GROUP 🕺 ", url="https://t.me/slbotzone")],
+                                                [InlineKeyboardButton(text= " 📦 SOURCE CODE 📦 ", url="https://github.com/supunmadurangasl/file-rename-bot")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
@@ -45,8 +45,8 @@ def send_start(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.START_TEXT.format(update.from_user.first_name),
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌀 CHANNEL 🌀", url="https://t.me/Network_hacker_bots")],
-                                                [InlineKeyboardButton(text="🔥 SOURCE CODE 🔥", url="https://github.com/ImBhashitha/NET.Rename-bot")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🌀 CHANNEL 🌀", url="https://t.me/slbotzone")],
+                                                [InlineKeyboardButton(text=" 📦   SOURCE CODE 📦  ", url="https://github.com/supunmadurangasl/file-rename-bot")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
@@ -60,7 +60,7 @@ def upgrade(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.UPGRADE_TEXT,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="⚡Ehi Podda Group⚡", url="https://t.me/Ehi_podda")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text=" 👨‍💻 sl geek show 👨‍💻 ", url="https://t.me/supunmasl")]]),
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
